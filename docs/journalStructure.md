@@ -181,7 +181,7 @@ _Structure 02:_
 ### Data Availability 
   * contains info regarding sequencing data and source code _(1 out of 4 publications)_
 
-## Signal Transduction and Targeted Therapy: IF 40.8
+## Signal Transduction and Targeted Therapy (Nature): IF 40.8
 _Structure 01:_
 ### Data Availability
   * accession number/acession code/project number found in plaintext instead of hyperlink

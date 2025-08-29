@@ -1,4 +1,4 @@
-# Structure of High IF Journals (Total number: 45)
+# Structure of High IF Journals (Total number: 46)
 
 This document contains the structure of Journals having Impact Factor greater than 15 - taken from [10x Genomics](https://www.10xgenomics.com/publications). Only relevant sections from the journals are added.
 

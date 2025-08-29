@@ -112,14 +112,15 @@ _Structure 02:_
   * Cellular & Molecular Immunology: 21.8
   * Nature Nanotechnology: 38.1
 
-## The Lancet Microbe: IF 20.9 (3)
+## The Lancet Microbe: IF 20.4 (3)
 ### Data Sharing
   * contains accession numbers for sequencing data and source code URLs
   * accession numbers stated in plain text instead of hyperlink
 
 ## Other Lancet Journals:
-  * The Lancet Oncology: 41.6
-  * The Lancet Infectious Diseases: 36.4
+  * The Lancet: 88.5
+  * The Lancet Oncology: 35.9
+  * The Lancet Infectious Diseases: 31.0
 
 ## Science: 50.3 (4)
 ### Acknowledgments
